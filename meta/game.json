@@ -1,17 +1,17 @@
 {
  "app": "マブラヴ ガールズガーデン Mellow Days",
  "steam_appid": 5005700,
- "buildid": 26727648,
+ "buildid": 26809648,
  "sha256": {
   "MellowDays_Data/Managed/Garden.Models.dll": "a533e64f9a84bcf0e947b87b116374f698e56ce342c90f9763cb3147da97d23e",
   "MellowDays_Data/StreamingAssets/aa/StandaloneWindows64/localization-assets-chinese(simplified)(zh-hans)_assets_all.bundle": "9f25d89eb26035b4a852234f9d1527456c9e72ebee68b3a9ac209790eb5310d6",
   "MellowDays_Data/StreamingAssets/aa/StandaloneWindows64/localization-assets-english(en)_assets_all.bundle": "d647c7b975a55818a070b264a2b5cec17ebb02fdcfda7d1b9fff75049b409f65",
-  "MellowDays_Data/StreamingAssets/aa/StandaloneWindows64/localization-assets-shared_assets_all.bundle": "e44faf6e0ecac7684d5b04dec0ed60e767ad9bd1722fec4410fac18a41ed809e",
+  "MellowDays_Data/StreamingAssets/aa/StandaloneWindows64/localization-assets-shared_assets_all.bundle": "e8e428c66e6b9bdc9c58c08004068991855bcc0968b20bb90508248f2a349c48",
   "MellowDays_Data/StreamingAssets/aa/StandaloneWindows64/localization-string-tables-chinese(simplified)(zh-hans)_assets_all.bundle": "e601dfd62de6c670502ce29faa44c38012e68781c986eb3008848a98c1148516",
   "MellowDays_Data/StreamingAssets/aa/StandaloneWindows64/localization-string-tables-chinese(traditional)(zh-hant)_assets_all.bundle": "81e0bff69394e21b620bc5e39b4abf432138e82a58f69b29285605c36ce8c440",
   "MellowDays_Data/StreamingAssets/aa/StandaloneWindows64/localization-string-tables-english(en)_assets_all.bundle": "98a07435b5d5ca0cac82c5dae229c598c206df074f4673796c0248187cdd1ae7",
   "MellowDays_Data/StreamingAssets/aa/StandaloneWindows64/localization-string-tables-japanese(ja)_assets_all.bundle": "ae6cdc81a765516034fd7ac3eb484cf79633cdbd05bab2804281d7ee0ab7322c",
-  "MellowDays_Data/StreamingAssets/aa/catalog.bin": "c9640e2606402b0833b5191d3af589f16166fb7497687f82580e2e6fe68a683e",
-  "MellowDays_Data/resources.assets": "53f01358f8f2c46989e0472b460eca688eda1dcb3c279bfd2f4d6d31a93f703e"
+  "MellowDays_Data/StreamingAssets/aa/catalog.bin": "3114a81df6ba76f4ac5eaa6e01a99a84e4cdaab1bc1d21a7c9fc9fa08206ce2f",
+  "MellowDays_Data/resources.assets": "d87634792f12fd9f270e2d7eedf6dd3d525bce1167f04a130bb686fee3010857"
  }
 }

@@ -204,7 +204,7 @@ print("resources.assets: 폴백 폰트 교체")
 # ------------------------------------------------------------------ 6. catalog.bin CRC
 cat = bytearray(open(os.path.join(AA, "catalog.bin"), "rb").read())
 CRC = {ZH_STR: (0x6894, 0xEA14718F), JA_STR: (0x6CB0, 0xFE433AFB), EN_STR: (0x6B5C, 0x85CF9931), HANT_STR: (0x6A0A, 0x6444DE1C),
-       ZH_AST: (0x5B3E, 0xD7CC4D1A), SHARED: (0x606A, 0x21DABDE8)}
+       ZH_AST: (0x5B3E, 0xD7CC4D1A), SHARED: (0x606A, 0xB2D6C01D)}
 for b, (off, old) in CRC.items():
     cur_crc, cur_size = struct.unpack_from("<II", cat, off)
     assert cur_crc == old and cur_size == os.path.getsize(os.path.join(BUN, b)), f"카탈로그 위치가 다름(게임 업데이트?): {b}"
